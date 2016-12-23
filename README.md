@@ -1,4 +1,4 @@
-# Temp-and-humidity-to-ThingSpeak-Cloud
+# Temp-and-humidity-to-ThingSpeak-Cloud with NodeMCU
 
 # Help!
 **Your need to setup  <DHT.h>   (header) before use ! 
