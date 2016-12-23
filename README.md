@@ -6,7 +6,8 @@
 		Paste: folder "DHT-sensor-library" to Directory of ArduinoIDE    
 		Ex: "C:\Program Files (x86)\Arduino\libraries"
 
-**Please fill :	
+**Please fill your informaitions:	
+
 		- ssid (Wi-Fi) name 
 		- your_Wi-Fi_password
 		- your_api-key
